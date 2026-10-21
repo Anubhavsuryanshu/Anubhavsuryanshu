@@ -1,14 +1,9 @@
-[README.md](https://github.com/user-attachments/files/33778956/README.md)
-## Hi there 👋
 
+## HII THERE👋
 
-**Anubhavsuryanshu/Anubhavsuryanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
- 🌱 I’m currently learning ...
- 👯 I’m looking to collaborate on ...# Anubhav Suryanshu
+⚔️ I’m currently working on HTML and CSS 
+🛹 I’m currently learning JAVASCRIPT
+🔗 I’m looking to collaborate on MY REPOSITORIES
 
 2nd-year BSc Computer Science student. Building a foundation in web development, with AI/ML as the long-term direction.
 
@@ -21,14 +16,15 @@ Here are some ideas to get you started:
 - Starting JavaScript next
 
 ## Projects
-- [REPO_NAME](https://github.com/Anubhavsuryanshu/REPO_NAME): a web project in HTML, with CSS by a collaborator
+-  https://github.com/Anubhavsuryanshu/HTML-CSS-FULL-LEARNING.git : a web project in HTML, with CSS by a collaborator
 
 ## Connect
-- LinkedIn: [Anubhav Suryanshu](YOUR_LINKEDIN_URL)
+- LinkedIn: [Anubhav Suryanshu](www.linkedin.com/in/
+anubhav-suryanshu-b32433371
+)
 - Email: anubhavsuryanshu@gmail.com
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help with HTML and CSS
+- 💬 Ask me about coding and new technologies information 
+- 📫 How to reach me: anubhavsuryanshu@gmail.com
+- ⚡ Fun fact: i watch anime , F1 n play video games !!!!!
