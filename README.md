@@ -1,9 +1,9 @@
 
 ## HII THERE👋
 
-⚔️ I’m currently working on HTML and CSS 
-🛹 I’m currently learning JAVASCRIPT
-🔗 I’m looking to collaborate on MY REPOSITORIES
+~ I’m currently working on HTML and CSS 
+~ I’m currently learning JAVASCRIPT
+~ I’m looking to collaborate on MY REPOSITORIES
 
 2nd-year BSc Computer Science student. Building a foundation in web development, with AI/ML as the long-term direction.
 
@@ -24,7 +24,7 @@ anubhav-suryanshu-b32433371
 )
 - Email: anubhavsuryanshu@gmail.com
 
-- 🤔 I’m looking for help with HTML and CSS
-- 💬 Ask me about coding and new technologies information 
-- 📫 How to reach me: anubhavsuryanshu@gmail.com
-- ⚡ Fun fact: i watch anime , F1 n play video games !!!!!
+-  I’m looking for help with HTML and CSS
+-  Ask me about coding and new technologies information 
+-  How to reach me: anubhavsuryanshu@gmail.com
+-  Fun fact: i watch anime , F1 n play video games !!!!!
